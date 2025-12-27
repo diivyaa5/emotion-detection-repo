@@ -81,7 +81,7 @@ emotion-detection-repo/
 ├── models/                        # Trained models (will be created)
 ├── data/                          # Your dataset goes here
 ├── notebooks/                     # Jupyter notebooks
-│   └── Real_Time_Emotion_Detection__Basic_.ipynb
+│   └── Real_Time_Emotion_Detection.ipynb
 ├── main.py                        # Main entry point
 ├── requirements.txt               # Dependencies
 ├── setup.py                       # Package setup
@@ -138,7 +138,6 @@ pip install -r requirements.txt --upgrade
 
 - The original Jupyter notebook is preserved in `notebooks/`
 - Models are saved in `models/` directory
-- All commented code has been removed for cleaner production code
 - Code is organized into logical modules for better maintainability
 
 ## 🤝 Contributing
